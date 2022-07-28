@@ -1,3 +1,7 @@
 .margin a {
     margin-left: 30px;
 }
+
+.background {
+    filter: brightness(60%);
+}
